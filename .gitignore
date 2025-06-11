@@ -1,0 +1,11 @@
+env310/ 
+env310/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.DS_Store
+*.env
+*.log
+
